@@ -1,8 +1,8 @@
-### Hello 👋
+## Hello 👋
 안녕하세요~<br/>
 신입 백엔드 개발자 이하영입니다.
 
-### 📚 기술 스택 
+## 📚 기술 스택 
   <img src="https://img.shields.io/badge/JAVA-437291?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
   
