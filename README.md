@@ -5,7 +5,7 @@
 ## 📚 기술 스택 
 
 * <b> Strong </b><br/>
-  <img src="https://img.shields.io/badge/JAVA-437291?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
