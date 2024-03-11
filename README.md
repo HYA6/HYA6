@@ -17,14 +17,10 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat-square&logo=SpringBoot&logoColor=white"/>
   
 * <b> Knowageable </b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=json&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   
 * <b> ETC </b><br/>
-  <img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/Windows10-0078D6?style=flat-square&logo=windows10&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
