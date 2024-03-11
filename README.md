@@ -9,7 +9,7 @@
 <br/>
 연락처<br/>
 Email : sjo6382@naver.com<br/>
-Blog : https://blog.naver.com/hya0608_<br/>
+Blog : [Memoria](https://blog.naver.com/hya0608_)<br/>
 <br/>
 <br/>
 
