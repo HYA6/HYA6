@@ -10,7 +10,7 @@
 <br/>
 연락처<br/>
 Email : sjo6382@naver.com<br/>
-Blog : https://hya68.tistory.com/<br/>
+Blog : https://hya68.tistory.com<br/>
 <br/>
 <br/>
 
