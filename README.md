@@ -6,8 +6,6 @@
 기본 지식이 탄탄하여 어떤 문제든 해결할 수 있는 개발자가 되고자 노력합니다.<br/>
 공부해 온 과정을 기록하고 항상 가독성, 유지보수성이 좋은 코드를 위해 고민합니다.<br/>
 <br/>
-저의 github를 봐주셔서 감사합니다.<br/>
-<br/>
 연락처<br/>
 Email : sjo6382@naver.com<br/>
 Blog : https://hya68.tistory.com <br/>
