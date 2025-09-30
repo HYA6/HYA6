@@ -33,7 +33,7 @@ Blog : https://hya68.tistory.com <br/>
 ## :bookmark_tabs: 프로젝트
 
 <b> :video_game: GAME PROJECT <b><br/>
-* MyCat
+* MyCat - https://github.com/HYA6/MyCat.git
   * 개인 프로젝트
   * Unity 2D / C#
 
